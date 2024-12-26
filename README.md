@@ -1,1 +1,1 @@
-你媽死了
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FFunny-Photo-Bomb-Prints-Silly-Monkey-Boo-Awesome-Novelty-Meme-Animals-Fashion-and-Decor-by-MrGiftee%2F100499558.EJUG5&psig=AOvVaw2A2OOrIOmOuQwE05WtHm8k&ust=1735265985223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCx5PyvxIoDFQAAAAAdAAAAABAE)
