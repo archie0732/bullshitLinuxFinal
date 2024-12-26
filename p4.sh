@@ -21,5 +21,5 @@ while IFS="#" read -r username password expiry_date shell_type; do
         sudo useradd -m "$username" -s "$shell_path" -e "$expiry_date"
         echo "$username:$password" | sudo chpasswd
     fi
-done < "$DATA_FILE"
+done < mydata.txt 
 
