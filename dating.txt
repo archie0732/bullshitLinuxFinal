@@ -1,0 +1,6 @@
+Mary:female:48
+Ted:male:29
+Barbara:female:20
+Cavin:male:24
+Terisa:female:23
+Johny:male:19
