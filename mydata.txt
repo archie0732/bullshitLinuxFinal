@@ -1,0 +1,8 @@
+Joe#joe123#2023/12/31#bash
+mary#123Mary#2024/12/31#bash
+ted#myTed123#2025/12/31#bash
+john#johny123#2022/12/31#sh
+lary#hereLary33#2026/10/15#sh
+catty#cat123#2026/09/10#sh
+tom#tomcat123#2023/12/10#bash
+mac#machintosh#2024/12/20#sh
